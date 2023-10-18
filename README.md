@@ -1,3 +1,3 @@
 # Weather App
 
-## this is a weather app created by pairing with each other thorugh Chingu Pair Programming Program
+## This weather app was created during a weekly session through Chingu Pair Programming by [sceiiya](https://github.com/sceiiya) and [andreimaier](https://github.com/andreimaier)
